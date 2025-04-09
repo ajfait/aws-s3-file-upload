@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>File Upload</h2>
+<input type="file" name="file"/>
+<button type="submit">Upload</button>
 </body>
 </html>
